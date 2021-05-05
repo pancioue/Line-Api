@@ -1,6 +1,7 @@
 lone login
 =============
-登入line developers  keyword:"line developers"
+登入line developers  
+__keyword:"line developers"__    
 [line developers](https://developers.line.biz/zh-hant/)
 一個provider為一個提供者(例如以網站區分provider)，provider有 Provider ID 
 provider底下有Channel，Roles (可以以Channel區分網站底下的專案)  
@@ -34,7 +35,8 @@ line pay
 line pay登入頁: https://pay.line.me/portal/tw/auth/login
 點擊"以商店ID登入"tag並登入
 
-line pay 有自己的developers，keyword:"line pay developer"
+line pay 有自己的developers  
+__keyword:"line pay developer"__  
 [線上串接文件](https://pay.line.me/tw/developers/apis/onlineApis?locale=zh_TW)
 
 帳號分為店家帳號及經銷商帳號
@@ -51,7 +53,7 @@ line pay 有自己的developers，keyword:"line pay developer"
 
 line notify
 ==============
-line notify:https://notify-bot.line.me/zh_TW/
+line notify: https://notify-bot.line.me/zh_TW/  
 登入後進到個人頁面
 
 
